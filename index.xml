@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oleg Sobchuk</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Oleg Sobchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Bret Beheim.</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/publications.html</link>
+      <link>/publications.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications.html</guid>
+      <guid>/publications.html</guid>
       <description>papers I&amp;rsquo;ve written, or helped write&#xA;my full CV as a PDF or as a plaintex YML&#xA;also see my google scholar page&#xA;- PDF&#xA;- data / code&#xA;- citation (bibtex)&#xA;Working Papers Beheim, B., Bell, A. Cultural distance can promote - or erode - group-beneficial outcomes across a spectrum of behavioral interactions in review, Evolutionary Human Sciences. Beheim, B. A Linked Mixture Model of Coronary Atherosclerosis. medRxiv, 2021.</description>
     </item>
   </channel>
