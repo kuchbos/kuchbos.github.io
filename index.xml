@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oleg Sobchuk</title>
+    <title>Oleg Sobchuk – Cultural Evolution of the Arts on Oleg Sobchuk</title>
     <link>/</link>
-    <description>Recent content on Oleg Sobchuk</description>
+    <description>Recent content in Oleg Sobchuk – Cultural Evolution of the Arts on Oleg Sobchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Bret Beheim.</copyright>
@@ -13,7 +13,7 @@
       <link>/publications.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publications.html</guid>
-      <description>my full CV as a PDF&#xA;also see my google scholar page&#xA;- PDF&#xA;- data / code&#xA;Working Papers Sobchuk O, Youngblood M, Morin O First-mover advantage in music, in review, EPJ Data Science.. Dubourg E, Thouzeau V, et al. The cognitive foundations of fictional stories in review, Psychology Review Sobchuk O, Šela A (accepted) Computational thematics: Comparing algorithms for clustering the genres of literary fiction. Humanities and Social Sciences Communications.</description>
+      <description>my full CV as a PDF&#xA;also see my google scholar page&#xA;- PDF&#xA;- data / code&#xA;Working Papers Sobchuk O, Youngblood M, Morin O First-mover advantage in music, in review, EPJ Data Science Dubourg E, Thouzeau V, et al. The cognitive foundations of fictional stories, in review, Psychology Review Sobchuk O, Šeļa A (accepted) Computational thematics: Comparing algorithms for clustering the genres of literary fiction, Humanities and Social Sciences Communications.</description>
     </item>
   </channel>
 </rss>
