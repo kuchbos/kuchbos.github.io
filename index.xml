@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oleg Sobchuk – Cultural Evolution of the Arts on Oleg Sobchuk</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Oleg Sobchuk – Cultural Evolution of the Arts on Oleg Sobchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Bret Beheim.</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>//localhost:1313/publications.html</link>
+      <link>/publications.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publications.html</guid>
+      <guid>/publications.html</guid>
       <description>My complete CV is here. Also, check out my Google Scholar page.&#xA;&amp;ndash; PDF, &amp;ndash; data and code&#xA;Working papers Sobchuk O, Youngblood M, Morin O. First-mover advantage in music, in review, EPJ Data Science Dubourg E, Thouzeau V, et al. The cognitive foundations of fictional stories, in review, Psychology Review Sobchuk, O, Šeļa, A (accepted). Computational thematics: Comparing algorithms for clustering the genres of literary fiction, Humanities and Social Sciences Communications Publications Sobchuk O (2023) Evolution of modern literature and film.</description>
     </item>
   </channel>
