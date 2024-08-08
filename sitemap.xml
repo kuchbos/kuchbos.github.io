@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publications.html</loc>
+    <loc>//localhost:1313/publications.html</loc>
   </url><url>
-    <loc>/research.html</loc>
+    <loc>//localhost:1313/research.html</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
   </url>
 </urlset>
