@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oleg Sobchuk on Oleg Sobchuk: Macroevolution of the Arts</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Oleg Sobchuk on Oleg Sobchuk: Macroevolution of the Arts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2024, Oleg Sobchuk.</copyright>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>/publications.html</link>
+      <link>//localhost:1313/publications.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publications.html</guid>
+      <guid>//localhost:1313/publications.html</guid>
       <description>&amp;ndash; PDF, &amp;ndash; data and code&#xA;Preprints Lee H, Anglada-Tort M, Sobchuk O, van Rijn P, Schönwiesner M, Tchernichovski O, Park M, Jacoby N Global music discoveries reveal cultural shifts during the war in Ukraine, in review Dubourg E, Thouzeau V, et al. The cognitive foundations of fictional stories, in review, Psychology Inquiry Books Sobchuk O (forthcoming) Stories Evolve: A Theory of Historical Change for Computational Humanities. Oxford: Oxford University Press.</description>
     </item>
     <item>
       <title>Research</title>
-      <link>/research.html</link>
+      <link>//localhost:1313/research.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/research.html</guid>
+      <guid>//localhost:1313/research.html</guid>
       <description>Does literature advance &amp;ldquo;one funeral at a time&amp;rdquo;? Literature, as any artistic domain, is the field of constant innovation. New book genres, and sub-genres, pop up every several years. Why does this happen? Do these new genres reflect some important changes in the broader cultural and political landscape? Or do they reflect something else: a constant pendulum of demography? Could it be that the chnage in literature reflects the turnover of generations?</description>
     </item>
   </channel>
